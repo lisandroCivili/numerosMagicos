@@ -22,3 +22,4 @@ const randomNumber = Math.floor(Math.random() * (50 - 1 + 1)) + 1;
 
 formNumber.addEventListener('submit', prueba2);
 btnPlay.addEventListener('click', prueba);
+    
